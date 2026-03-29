@@ -1,6 +1,6 @@
-# lambda_calc2
+# lambda-calc2
 
-Lambda calculus interpreter — Church numerals, combinators
+Lambda calculus interpreter with beta reduction, Church encodings, and normal order evaluation
 
 ## Usage
 
@@ -10,10 +10,5 @@ python3 lambda_calc2.py --help
 
 ## Features
 
-- Single file, zero dependencies
-- Python 3.8+ compatible
-- CLI interface
-
-## License
-
-MIT
+- Zero dependencies (Python 3.8+ stdlib only)
+- Single file implementation
